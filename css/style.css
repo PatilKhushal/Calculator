@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+
+.calcShadow
+{
+    @apply shadow-[0px_0px_20px_1px_#003dff];
+}
+
+@tailwind utilities;
