@@ -679,8 +679,8 @@ video {
   --tw-bg-opacity: 0.7;
 }
 
-.bg-\[url\(\'\/images\/bg\.jpg\'\)\] {
-  background-image: url('/images/bg.jpg');
+.bg-\[url\(\'\.\.\/images\/bg\.jpg\'\)\] {
+  background-image: url('../images/bg.jpg');
 }
 
 .p-4 {
